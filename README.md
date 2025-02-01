@@ -4,6 +4,20 @@
 - 👯 I’m looking to collaborate on full stack projects and research related to AI/ML.
 - 🤔 I’m looking for help with participation in hackathons and enhancing communication skills.
 - 📫 How to reach me: E-mail- ranjanaksh25@gmail.com, Whatsapp- 8840516967.
+  
+###
+
+## 💻 Technologies and Tools
+
+```python
+{
+    'Languages': ['Python', 'C/C++', 'JavaScript', 'SQL'],
+    'AI/ML': ['Numpy','Pandas'],
+    'Version Control': ['Git'],
+    'Web Dev': ['React.js','Tailwind CSS', 'HTML5','CSS3'],
+}
+```
+
 ###
 
 <h3 align="left">🌐 Socials:</h3>

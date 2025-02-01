@@ -11,8 +11,9 @@
 ###
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/akshatranjan25/" target="_blank" rel="noopener noreferrer">
+    <a href="#" onclick="window.open('https://www.linkedin.com/in/akshatranjan25/', '_blank'); return false;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn logo" />
     </a>
 </div>
+
 

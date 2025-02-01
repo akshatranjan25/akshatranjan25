@@ -11,7 +11,8 @@
 ###
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/akshatranjan25/" target=_blank>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="linkedin logo"  />
-  </a>
+    <a href="https://www.linkedin.com/in/akshatranjan25/" target="_blank" rel="noopener noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn logo" />
+    </a>
 </div>
+

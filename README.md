@@ -29,7 +29,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn logo" />
     </a>
   <a href="https://www.twitter.com/akshatranjan25/" target="_blank" rel="noopener noreferrer>
-    <img src="https://about.x.com/en" height="30" alt="twitter logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" height="30" alt="twitter logo"  />
   </a>
 </div>
 

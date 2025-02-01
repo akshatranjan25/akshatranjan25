@@ -4,4 +4,15 @@
 - 👯 I’m looking to collaborate on full stack projects and research related to AI/ML.
 - 🤔 I’m looking for help with participation in hackathons and enhancing communication skills.
 - 📫 How to reach me: E-mail- ranjanaksh25@gmail.com, Whatsapp- 8840516967.
+###
 
+<h3 align="left">🌐 Socials:</h3>
+
+###
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/akshatranjan25/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+###

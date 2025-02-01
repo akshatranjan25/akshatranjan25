@@ -23,15 +23,15 @@
 <h3 align="left">🌐 Socials:</h3>
 
 ###
-<div align="left" display="inline">
+<div style="display: flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/akshatranjan25/" target="_blank" rel="noopener noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn logo" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" alt="LinkedIn logo" />
     </a>
-  <p> </p>
     <a href="https://www.twitter.com/akshatranjan25/" target="_blank" rel="noopener noreferrer">
-      <img height="30" alt="Twitter logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" />
+        <img height="30" alt="Twitter logo" src="https://upload.wikimedia.org/wikipedia/commons/b/b7/X_logo.jpg" />
     </a>
 </div>
+
 
 
 ###

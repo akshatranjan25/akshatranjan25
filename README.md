@@ -11,7 +11,7 @@
 
 ```python
 {
-    'Languages': ['Python', 'C/C++', 'JavaScript', 'SQL'],
+    'Languages': ['Python', 'C/C++', 'JavaScript'],
     'AI/ML': ['Numpy','Pandas'],
     'Version Control': ['Git'],
     'Web Dev': ['React.js','Tailwind CSS', 'HTML5','CSS3'],

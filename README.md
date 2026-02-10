@@ -11,11 +11,14 @@
 
 ```python
 {
-    'Languages': ['Python', 'C/C++', 'JavaScript'],
-    'AI/ML': ['Numpy','Pandas'],
+    'Programming Languages': ['Python', 'C/C++', 'JavaScript', 'Java', 'SQL'],
+    'ML': [' (Supervised, Unsupervised, RL, NLP),'],
+    'ML Libraries': ['Numpy','Pandas', 'Scikit-learn', 'Seaborn', 'TensorFlow'],
     'Version Control': ['Git'],
-    'Web Dev': ['React.js','Tailwind CSS', 'HTML5','CSS3'],
-}
+    'Web Technologies': ['React.js','Tailwind CSS', 'HTML5','CSS3', 'Django', 'FastAPI'],
+    'Fundamentals': ['Object-oriented Programming', 'Data Structures', 'Computer Networks', 'DBMS'],
+    'Cloud': ['Docker', 'AWS Free Tier']
+    'Backend engineering': ['REST/WebSocket APIs']
 ```
 
 ###

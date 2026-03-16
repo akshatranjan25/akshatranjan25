@@ -17,7 +17,7 @@
     'Version Control': ['Git'],
     'Web Technologies': ['React.js','Tailwind CSS', 'HTML5','CSS3', 'Django', 'FastAPI'],
     'Fundamentals': ['Object-oriented Programming', 'Data Structures', 'Computer Networks', 'DBMS'],
-    'Cloud': ['Docker', 'AWS Free Tier']
+    'Cloud': ['Docker', 'GCP Free Tier']
     'Backend engineering': ['REST/WebSocket APIs']
 ```
 

@@ -12,7 +12,7 @@
 ```python
 {
     'Programming Languages': ['Python', 'C/C++', 'JavaScript', 'Java', 'SQL'],
-    'ML': [' (Supervised, Unsupervised, RL, NLP),'],
+    'ML': [' (Supervised, Unsupervised, NLP),'],
     'ML Libraries': ['Numpy','Pandas', 'Scikit-learn', 'Seaborn', 'TensorFlow'],
     'Version Control': ['Git'],
     'Web Technologies': ['React.js','Tailwind CSS', 'HTML5','CSS3', 'Django', 'FastAPI'],
